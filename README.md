@@ -1,5 +1,5 @@
 # NEBbaschanger
-Automate retriveal of primer sequenes from NEB website
+Automate retriveal of primer sequences from NEB website
 by NEB, they were not interested in giving me this information (big surprise). And researchers tend to want to stick to
 what works, thus the implementation of Selenium on a Java driven website.
 
